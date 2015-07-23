@@ -75,7 +75,6 @@ COSCUP 研討會已堂堂邁入第十年，十年來不但由各地社群共同�
 <li>阿哲</li>
 <li>HenryLee</li>
 <li>Vagabond</li>
-<li>Wisely</li>
 <li>Kevin-WY</li>
 <li>lin4h</li>
 <li>遇雨</li>
@@ -135,7 +134,6 @@ COSCUP 研討會已堂堂邁入第十年，十年來不但由各地社群共同�
 <li>蜜私酒</li>
 <li>竣翔</li>
 <li>胃炎</li>
-<li>雪兒</li>
 <li>桌機哥</li>
 <li>朋朋</li>
 <li>o00winnie00o</li>
@@ -159,7 +157,6 @@ COSCUP 研討會已堂堂邁入第十年，十年來不但由各地社群共同�
 <li>熊貓</li>
 <li>taka</li>
 <li>阿吉</li>
-<li>蝦米</li>
 <li>Stanley</li>
 <li>Chris</li>
 <li>Beta</li>
